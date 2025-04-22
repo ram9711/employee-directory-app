@@ -10,4 +10,4 @@ This is a Flask app integrated with AWS DynamoDB to manage employee data.
 ## Setup:
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/employee-directory-app.git
+   git clone https://github.com/ram9711/employee-directory-app.git
